@@ -1,0 +1,12 @@
+{
+  "powers": [
+    "meumo:creeper_color",
+    "meumo:explode",
+    "meumo:explosive_eater",
+    "meumo:explosion_resistant",
+    "meumo:charged_strength"
+  ],
+  "icon": "minecraft:gunpowder",
+  "order": 1,
+  "impact": 2
+}

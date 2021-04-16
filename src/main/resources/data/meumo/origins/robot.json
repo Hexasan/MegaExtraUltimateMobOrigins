@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "origins:water_vulnerability",
+    "origins:strong_arms",
+    "origins:strong_arms_break_speed",
+    "meumo:built_in_armor",
+    "meumo:built_in_night_vision",
+    "meumo:powerful_arms",
+    "meumo:strong_legs",
+    "meumo:energy_consumer",
+    "meumo:light_armor"
+  ],
+  "icon": "minecraft:redstone_lamp",
+  "order": 2,
+  "impact": 2
+}

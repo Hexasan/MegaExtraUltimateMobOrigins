@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "meumo",
+  "version": "${version}",
+  "name": "Mega Extra Ultimate Mob Origins",
+  "description": "Adds more origins for the origins mod",
+  "authors": [
+    "MagicQuartz"
+  ],
+  "contact": {
+    "website": "https://www.curseforge.com/members/magicquartz/projects"
+  },
+  "license": "MIT",
+  "icon": "assets/meumo/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.magicquartz.megaextraultimatemoborigins.Main"
+    ]
+  },
+  "mixins": [
+    "meumo.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}

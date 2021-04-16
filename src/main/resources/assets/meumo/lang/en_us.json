@@ -1,0 +1,41 @@
+{
+  "origin.meumo.creeper.name": "Creeper",
+  "origin.meumo.creeper.description": "With their creeper abilities, this origin is very powerful in terms of strength.",
+
+  "origin.meumo.robot.name": "Robot",
+  "origin.meumo.robot.description": "They're vulnerable to water and are very strong.",
+
+  "power.meumo.explode.name": "Explodable",
+  "power.meumo.explode.description": "You have the ability to explode when you activate your origin power, and you take some damage. You have a stronger explosion if you have a strength effect II, the explosion will be stronger.",
+
+  "power.meumo.explosive_eater.name": "Explosive Eater",
+  "power.meumo.explosive_eater.description": "You can eat gunpowder by right clicking it, which gives you half a heart and consumes the gunpowder. You can do the same with TNT, which gives you 3 hearts.",
+
+  "power.meumo.explosion_resistant.name": "Explosion Resistant",
+  "power.meumo.explosion_resistant.description": "You are five times more resistant to explosions than regular players.",
+
+  "power.meumo.charged_strength.name": "Charged Strength",
+  "power.meumo.charged_strength.description": "Getting hit by lightning gives you strength II and resistance II for a short period of time.",
+
+  "power.meumo.poison_resistant.name": "Poison Resistant",
+  "power.meumo.poison_resistant.description": "Due to your metal body, you are immune to poison and hunger status effects.",
+
+  "power.meumo.powerful_arms.name": "Powerful Arms",
+  "power.meumo.powerful_arms.description": "You are twice as strong as regular players, giving you a big advantage in combat.",
+
+  "power.meumo.strong_legs.name": "Strong Legs",
+  "power.meumo.strong_legs.description": "Your metal legs makes you able to jump slightly higher than other origins.",
+
+  "power.meumo.energy_consumer.name": "Energy Consumer",
+  "power.meumo.energy_consumer.description": "Due to your high physical abilities, you consume more energy than a regular player.",
+
+  "power.meumo.light_armor.name": "Heavy Enough",
+  "power.meumo.light_armor.description": "You're made of metal, so wearing armor heavier than iron would make you unable to move.",
+
+  "power.meumo.built_in_night_vision.name": "Built-In Night Vision",
+  "power.meumo.built_in_night_vision.description": "Because of your advanced artificial eyes, you are able to see in the dark.",
+
+  "power.meumo.built_in_armor.name": "Built-In Armor",
+  "power.meumo.built_in_armor.description": "Your whole body is made of metal, so you have some protection."
+
+}
