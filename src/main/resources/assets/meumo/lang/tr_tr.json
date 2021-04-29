@@ -1,0 +1,41 @@
+{
+  "origin.meumo.creeper.name": "Creeper",
+  "origin.meumo.creeper.description": "Creeperlar özellikleri sayesinde çok güçlüdürler.",
+
+  "origin.meumo.robot.name": "Robot",
+  "origin.meumo.robot.description": "Suya dayanıksızlardır ama çok güçlüdürler.",
+
+  "power.meumo.explode.name": "Patlayıcı",
+  "power.meumo.explode.description": "Birincil güç tuşunda patlama gücün var, ama bunu yaptığında 3 canın azalıyor. (güç II etkin varsa daha güçlü patlarsın).",
+
+  "power.meumo.explosive_eater.name": "Patlayıcı Yemek",
+  "power.meumo.explosive_eater.description": "Barutu(gunpowder) sağ tıklayarak tüketebilirsin ve bu yarım kalbini doldurur. aynısını TNT ile de yapabilirsin ama tnt 3 kalbini doldurur.",
+
+  "power.meumo.explosion_resistant.name": "Patlama Koruması",
+  "power.meumo.explosion_resistant.description": "Patlamalara normalden 5 kat daha dayanıklısın.",
+
+  "power.meumo.charged_strength.name": "Fitillenmiş",
+  "power.meumo.charged_strength.description": "Şimşek tarafından çarpılırsan 30 saniyeliğine güç II ve Direnç II etkisi alırsın.",
+
+  "power.meumo.poison_resistant.name": "Zehir Dayanıklılığı",
+  "power.meumo.poison_resistant.description": "Metal vücudundan dolayı açlık ve zehir etkilerine karşı dayanıklısın.",
+
+  "power.meumo.powerful_arms.name": "Güçlü Kollar",
+  "power.meumo.powerful_arms.description": "Normal oyunculardan 2 kat güçlüsün.",
+
+  "power.meumo.strong_legs.name": "Güçlü Bacaklar",
+  "power.meumo.strong_legs.description": "Metal bacakların normale göre biraz daha yukarı zıplamanı sağlar.",
+
+  "power.meumo.energy_consumer.name": "Aşırı Yüklenme",
+  "power.meumo.energy_consumer.description": "Güçlü fiziksel yeteneklerinden dolayı, normalden daha fazla enerji tüketirsin.",
+
+  "power.meumo.light_armor.name": "Ağır",
+  "power.meumo.light_armor.description": "Metalden yapıldın ve ağırsın, yani demir ya da demirden daha ağır zırhları giyersen hareket edemezsin.",
+
+  "power.meumo.built_in_night_vision.name": "Gece Görüşü Modülü",
+  "power.meumo.built_in_night_vision.description": "Gelişmiş yapay gözlerinde gece görüşü özelliği var.",
+
+  "power.meumo.built_in_armor.name": "Sert",
+  "power.meumo.built_in_armor.description": "Tüm vücudun metalden yapılmış, yani biraz koruman var."
+
+}
